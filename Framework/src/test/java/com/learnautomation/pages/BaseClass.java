@@ -1,6 +1,6 @@
 package com.learnautomation.pages;
 
-import java.io.File;
+
 import java.io.IOException;
 
 import org.openqa.selenium.WebDriver;
