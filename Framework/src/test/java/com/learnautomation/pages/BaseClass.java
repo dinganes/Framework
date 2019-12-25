@@ -3,7 +3,6 @@ package com.learnautomation.pages;
 import java.io.File;
 import java.io.IOException;
 
-import org.openqa.selenium.WebDriver;
 import org.testng.ITestResult;
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
