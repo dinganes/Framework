@@ -28,5 +28,7 @@ public class TestCaseWithoutFramework {
 
 		driver.quit();
 	}
+	
+		System.out.println("Added new line");
 
 }
